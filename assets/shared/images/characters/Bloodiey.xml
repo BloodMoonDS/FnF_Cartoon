@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bloodiey.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bloodiey Idle Dance0000" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0001" x="377" y="40" width="302" height="577" frameX="-9" frameY="-5" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0002" x="719" y="40" width="306" height="572" frameX="-7" frameY="-11" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0003" x="1065" y="40" width="311" height="567" frameX="-4" frameY="-17" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0004" x="1416" y="40" width="316" height="561" frameX="-2" frameY="-23" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0005" x="40" y="662" width="320" height="556" frameX="0" frameY="-29" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0006" x="400" y="662" width="312" height="565" frameX="-4" frameY="-19" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0007" x="752" y="662" width="305" height="574" frameX="-7" frameY="-9" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0008" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0009" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0010" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0011" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0012" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0013" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0014" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Idle Dance0015" x="40" y="40" width="297" height="582" frameX="-11" frameY="0" frameWidth="320" frameHeight="585"/>
+	<SubTexture name="Bloodiey Note Down0000" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0001" x="1458" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0002" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0003" x="1458" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0004" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0005" x="1458" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0006" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0007" x="1458" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0008" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0009" x="1458" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0010" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0011" x="1458" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0012" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0013" x="1458" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Down0014" x="1097" y="662" width="321" height="595"/>
+	<SubTexture name="Bloodiey Note Left0000" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0001" x="437" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0002" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0003" x="437" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0004" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0005" x="437" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0006" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0007" x="437" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0008" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0009" x="437" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0010" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0011" x="437" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0012" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0013" x="437" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Left0014" x="40" y="1297" width="357" height="582"/>
+	<SubTexture name="Bloodiey Note Right0000" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0001" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0002" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0003" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0004" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0005" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0006" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0007" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0008" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0009" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0010" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0011" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0012" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0013" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0014" x="834" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Right0015" x="1239" y="1297" width="365" height="586"/>
+	<SubTexture name="Bloodiey Note Up0000" x="1644" y="1297" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0001" x="40" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0002" x="429" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0003" x="40" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0004" x="1644" y="1297" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0005" x="1644" y="1297" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0006" x="40" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0007" x="429" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0008" x="40" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0009" x="1644" y="1297" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0010" x="1644" y="1297" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0011" x="40" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0012" x="429" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0013" x="40" y="1927" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0014" x="1644" y="1297" width="349" height="590"/>
+	<SubTexture name="Bloodiey Note Up0015" x="1644" y="1297" width="349" height="590"/>
+</TextureAtlas>

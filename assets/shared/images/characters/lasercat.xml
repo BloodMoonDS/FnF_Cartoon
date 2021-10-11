@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lasercat.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LaserCatIdle0000" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0001" x="263" y="0" width="254" height="522" frameX="-9" frameY="-3" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0002" x="517" y="0" width="252" height="522" frameX="-13" frameY="-3" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0003" x="769" y="0" width="251" height="521" frameX="-13" frameY="-4" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0004" x="1020" y="0" width="251" height="525" frameX="-13" frameY="0" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0005" x="1271" y="0" width="259" height="523" frameX="-9" frameY="-2" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0006" x="1530" y="0" width="259" height="521" frameX="-5" frameY="-4" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0007" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0008" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0009" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0010" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0011" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0012" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0013" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatIdle0014" x="0" y="0" width="263" height="515" frameX="0" frameY="-10" frameWidth="268" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0000" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0001" x="0" y="525" width="230" height="525" frameX="-6" frameY="0" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0002" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0003" x="0" y="525" width="230" height="525" frameX="-6" frameY="0" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0004" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0005" x="0" y="525" width="230" height="525" frameX="-6" frameY="0" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0006" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0007" x="0" y="525" width="230" height="525" frameX="-6" frameY="0" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0008" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0009" x="0" y="525" width="230" height="525" frameX="-6" frameY="0" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0010" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0011" x="0" y="525" width="230" height="525" frameX="-6" frameY="0" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0012" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0013" x="0" y="525" width="230" height="525" frameX="-6" frameY="0" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingDown0014" x="1789" y="0" width="247" height="524" frameX="0" frameY="-1" frameWidth="247" frameHeight="525"/>
+	<SubTexture name="LaserCatSingLeft0000" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingLeft0001" x="480" y="525" width="271" height="516"/>
+	<SubTexture name="LaserCatSingLeft0002" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingLeft0003" x="480" y="525" width="271" height="516"/>
+	<SubTexture name="LaserCatSingLeft0004" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingLeft0005" x="480" y="525" width="271" height="516"/>
+	<SubTexture name="LaserCatSingLeft0006" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingLeft0007" x="480" y="525" width="271" height="516"/>
+	<SubTexture name="LaserCatSingLeft0008" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingLeft0009" x="480" y="525" width="271" height="516"/>
+	<SubTexture name="LaserCatSingLeft0010" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingLeft0011" x="480" y="525" width="271" height="516"/>
+	<SubTexture name="LaserCatSingLeft0012" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingLeft0013" x="480" y="525" width="271" height="516"/>
+	<SubTexture name="LaserCatSingLeft0014" x="230" y="525" width="250" height="515" frameX="-12" frameY="-1" frameWidth="271" frameHeight="516"/>
+	<SubTexture name="LaserCatSingRight0000" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingRight0001" x="1011" y="525" width="254" height="523" frameX="0" frameY="0" frameWidth="260" frameHeight="523"/>
+	<SubTexture name="LaserCatSingRight0002" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingRight0003" x="1011" y="525" width="254" height="523" frameX="0" frameY="0" frameWidth="260" frameHeight="523"/>
+	<SubTexture name="LaserCatSingRight0004" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingRight0005" x="1011" y="525" width="254" height="523" frameX="0" frameY="0" frameWidth="260" frameHeight="523"/>
+	<SubTexture name="LaserCatSingRight0006" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingRight0007" x="1011" y="525" width="254" height="523" frameX="0" frameY="0" frameWidth="260" frameHeight="523"/>
+	<SubTexture name="LaserCatSingRight0008" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingRight0009" x="1011" y="525" width="254" height="523" frameX="0" frameY="0" frameWidth="260" frameHeight="523"/>
+	<SubTexture name="LaserCatSingRight0010" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingRight0011" x="1011" y="525" width="254" height="523" frameX="0" frameY="0" frameWidth="260" frameHeight="523"/>
+	<SubTexture name="LaserCatSingRight0012" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingRight0013" x="1011" y="525" width="254" height="523" frameX="0" frameY="0" frameWidth="260" frameHeight="523"/>
+	<SubTexture name="LaserCatSingRight0014" x="751" y="525" width="260" height="523"/>
+	<SubTexture name="LaserCatSingUp0000" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0001" x="1549" y="525" width="296" height="508" frameX="0" frameY="-7" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0002" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0003" x="1549" y="525" width="296" height="508" frameX="0" frameY="-7" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0004" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0005" x="1549" y="525" width="296" height="508" frameX="0" frameY="-7" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0006" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0007" x="1549" y="525" width="296" height="508" frameX="0" frameY="-7" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0008" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0009" x="1549" y="525" width="296" height="508" frameX="0" frameY="-7" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0010" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0011" x="1549" y="525" width="296" height="508" frameX="0" frameY="-7" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0012" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0013" x="1549" y="525" width="296" height="508" frameX="0" frameY="-7" frameWidth="308" frameHeight="515"/>
+	<SubTexture name="LaserCatSingUp0014" x="1265" y="525" width="284" height="515" frameX="-24" frameY="0" frameWidth="308" frameHeight="515"/>
+</TextureAtlas>
